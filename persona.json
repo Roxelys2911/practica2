@@ -1,0 +1,8 @@
+{
+  "nombre": "Victor",
+  "apellido": "Gonzalez",
+  "edad": 24,
+  "ciudad": "Maracaibo",
+  "Trabaja": true,
+  "habilidades": ["python", "javascript", "postgres"]
+}
